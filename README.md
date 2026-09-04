@@ -1,1 +1,1 @@
-# test
+# Stojany na časomíry SDH
